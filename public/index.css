@@ -1,0 +1,90 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.main-container{
+    background-color: #11314e !important;
+}
+
+h1{
+
+    font-weight: bold;
+}
+
+.tshadow{
+    text-shadow: 5px 5px 5px #020708 !important;
+}
+
+button{
+   font-weight:900;
+}
+
+.cardshadow{
+    box-shadow:0 0 5px #62E3FF !important;
+    box-shadow:0 0 10px #62E3FF !important;
+    box-shadow:0 0 15px #62E3FF !important;
+}
+
+
+.bcolor{
+    background-color:#11314e !important ;
+}
+
+.mcolor{
+    color: #62E3FF !important;
+}
+
+.ibcolor{
+    background-color: #B4D9E4;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+.cardbody{
+    position:relative;
+}
+.to{
+    position:absolute;
+    top: 3px;
+    right: 3px;
+}
+
+.tohome{
+    position:absolute;
+    top: 3px;
+    left: 3px;
+}
+
+h6{
+    margin: 0;
+}
+
+table tr {
+    font-size: 13px;
+    text-align: center !important;
+    vertical-align: middle;
+}
+
+.btn-sms{
+    width:auto !important;
+    height: 27px !important;
+    font-size: 13px !important;
+    display: flex;
+    align-items: center;
+    color:white !important;
+}
+
+hr {
+    background-color:#62E3FF !important;
+    height: 3px !important;
+}
+
+/* For List */
+
